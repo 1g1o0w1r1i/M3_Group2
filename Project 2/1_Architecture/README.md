@@ -1,7 +1,8 @@
 ## 1.Architecture
 # 1.1 Behavioural diagram
 # 1.1.1 High Level Flow chart Behavioural Diagram 
-![HLBD 2](https://user-images.githubusercontent.com/98813206/157862921-543542b4-024f-491b-a1e1-4ca201130d32.png)
+![HLBD 2](https://user-images.githubusercontent.com/98813206/157864175-e9b80c83-647d-4d4e-8fa6-5a603a6f7a7e.png)
+
 # 1.1.2 Low Level Flow chart Behavioural Diagram
 ![LLBD2](https://user-images.githubusercontent.com/98813206/157863036-77431103-4e58-4634-9ee6-b061faf9b841.png)
 # 1.2 Structral diagram
